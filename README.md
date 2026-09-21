@@ -19,7 +19,7 @@ Este repositorio sirve como evidencia de clase para organizar los ejercicios, la
 ## Proyecto Scratch y Traducción a Python
 
 * **Enlace al proyecto de Scratch:** https://scratch.mit.edu/projects/1377741265
-* **Porción traducida a Python:** Se encuentra disponible dentro de la carpeta `python/`.
+* **Porción traducida a Python:** Se encuentra disponible dentro de la carpeta `proyectos/`.
 
 ---
 
