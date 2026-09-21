@@ -11,17 +11,6 @@ Este repositorio sirve como evidencia de clase para organizar los ejercicios, la
 
 ---
 
-## Estructura de carpetas
-
-```text
-.
-├── src/            # Código fuente en Python traducido desde Scratch
-├── proyectos/        # Proyectos, capturas o archivos fuente de Scratch
-└── README.md       # Documentación general del repositorio
-
----
-
-
 * **`scratch/`**: Espacio dedicado a conservar el enlace o archivos fuente del modelo visual desarrollado en Scratch.
 * **`python/`**: Código fuente en Python correspondiente a la porción traducida desde la lógica de Scratch.
 
@@ -29,8 +18,8 @@ Este repositorio sirve como evidencia de clase para organizar los ejercicios, la
 
 ## Proyecto Scratch y Traducción a Python
 
-* **Enlace al proyecto de Scratch:** (https://scratch.mit.edu/projects/1377741265)
-* **Porción traducida a Python:** Se encuentra disponible dentro de la carpeta `proyectos/`.
+* **Enlace al proyecto de Scratch:** [Pega aquí el enlace de tu proyecto en Scratch]
+* **Porción traducida a Python:** Se encuentra disponible dentro de la carpeta `python/`.
 
 ---
 
@@ -55,3 +44,13 @@ Si quieres probar o revisar este proyecto en tu computadora, sigue estos pasos:
    Abre tu terminal y ejecuta:
    ```bash
    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+
+---
+
+## Estructura de carpetas
+
+```text
+.
+├── src/            # Código fuente en Python traducido desde Scratch
+├── proyectos/        # Proyectos, capturas o archivos fuente de Scratch
+└── README.md       # Documentación general del repositorio
