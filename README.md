@@ -25,14 +25,14 @@ Este repositorio sirve como evidencia de clase para organizar los ejercicios, la
 
 ## Bitácora de instalación del IDE
 
-* **IDE instalado:** Visual Studio Code [o el IDE que hayas utilizado, ej. PyCharm, Thonny]
-* **Versión:** [Ejemplo: 1.93.0]
+* **IDE instalado:** Visual Studio Code
+* **Versión:** [3.14.7]
 * **Instalación:**
   1. Se descargó el instalador oficial desde el sitio web del proveedor.
   2. Se completó el asistente de instalación agregando las extensiones necesarias para Python.
 * **Problemas encontrados y solución:**
-  * *Problema:* [Describe si tuviste algún fallo, ej. Python no era reconocido en la terminal / faltaba instalar el paquete de lenguaje].
-  * *Solución:* [Describe cómo lo resolviste, ej. Se agregó Python a las variables de entorno (PATH) y se reinició el IDE].
+  * *Problema:* 
+  * *Solución:* 
 
 ---
 
@@ -43,7 +43,7 @@ Si quieres probar o revisar este proyecto en tu computadora, sigue estos pasos:
 1. **Clonar el repositorio:**
    Abre tu terminal y ejecuta:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone [https://github.com/AmyVSC/muñozdealba-kimberlyairam-programacion1.git](https://github.com/AmyVSC/muñozdealba-kimberlyairam-programacion1.git)
 
 ---
 
